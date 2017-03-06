@@ -50,6 +50,8 @@
                 <configuration>
                     <source>1.7</source>
                     <target>1.7</target>
+                    <url>http://10.0.10.71:8080</url>      
+                    <server>tomcatServer</server>  
                     <path>/jerseyDemo</path> 
                 </configuration>
             </plugin>
